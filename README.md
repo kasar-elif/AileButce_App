@@ -77,4 +77,5 @@ The generated code was reviewed, tested, and adapted during development.
 
 ## Project Status
 
-The application has been developed and tested locally. Public repository and deployment links will be added after publication.
+The application has been developed and tested locally.
+(https://ailebutcebyelif.netlify.app/)
